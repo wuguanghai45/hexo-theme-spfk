@@ -4,7 +4,7 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  博客首页: /Home
+  博客首页: /
   #作品展示: /works
   #留言打卡: /about
   #前端导航: /FrontEndGuide
@@ -25,13 +25,13 @@ favicon: img/favicon.png
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
   #mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E"
-  mail: "wuguanghai45@126.com"
+  #mail: "wuguanghai45@126.com"
   github: "https://github.com/wuguanghai45"
-  zhihu: "#"
-  weibo: "#"
-  google: "#"
-  twitter: "#"
-  linkedin: "#"
+  #zhihu: "#"
+  #weibo: "#"
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
   # facebook: "#"
   # rss: /atom.xml
   # pinterest: "#"
