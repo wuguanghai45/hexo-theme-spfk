@@ -5,9 +5,9 @@
 ## Tags Cloud Page: `hexo new page tags`
 menu:
   博客首页: /Home
-  作品展示: /works
-  留言打卡: /about
-  前端导航: /FrontEndGuide
+  #作品展示: /works
+  #留言打卡: /about
+  #前端导航: /FrontEndGuide
 # 静心阅读: /tags
 # 光影之路: /instagram
 # 随笔: /tags/随笔
@@ -24,8 +24,9 @@ favicon: img/favicon.png
 ## RSS requires a plugin to take effect | 使用 RSS 需先安装对应插件
 ## https://github.com/hexojs/hexo-generator-feed
 subnav:
-  mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E"
-  github: "https://github.com/luuman"
+  #mail: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=PAkNDgsKBQ4MCnxNTRJfU1E"
+  mail: "wuguanghai45@126.com"
+  github: "https://github.com/wuguanghai45"
   zhihu: "#"
   weibo: "#"
   google: "#"
@@ -47,25 +48,25 @@ subnav:
 # 选一个作为网站评论系统，其他保持禁用。
 
 disqus: 
-  # on: true
-  shortname: luuman
+  #on: true
+  shortname: https-wuguanghai45-github-io
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
   # It is unnecessary to enable disqus here if 
   # you have set "disqus_shortname" in your site's "_config.yml" 
 
 duoshuo: 
   # on: true
-  domain: luuman
+  domain: wuguanghai45
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
 
 gitment:
   on: true
-  owner: luuman
-  repo: luuman.github.io
-  client_id: 
-  client_secret: 
+  owner: wuguanghai45
+  repo: wuguanghai45.github.io
+  client_id: 2da3e069ca04e5705ba8
+  client_secret: e677c619ade0c0d0c042a05a18131232c032ad17
 
 youyan:
   #on: true
@@ -130,13 +131,13 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  name: http://luuman.github.io/
+  #name: http://luuman.github.io/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
 reward_wording1: '纯属好玩'
 reward_wording2: '扫码打赏，你说多少就多少'
@@ -146,7 +147,7 @@ alipay: /img/alipay.png
 weixin: /img/weixin.png
 
 #是否开启“关于我”。
-aboutme: 纯海迷、爱运动、爱交友、爱旅行、喜欢接触新鲜事物、迎接新的挑战，更爱游离于错综复杂的编码与逻辑中
+aboutme: 轻度动漫迷，内向，有向肥宅发展的趋势，打算减肥，已办健身卡.
 #aboutme: false
 
 # 是否在新窗口打开链接
